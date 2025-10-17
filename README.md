@@ -1,45 +1,72 @@
-<div align="center" width="50">
+# 👋 Hi, I'm Mona Nagib
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+🎯 **AI Engineer** passionate about developing intelligent systems and solving real-world problems using data, machine learning, and deep learning.
 
-<h2>👋 Hi there, I'm <strong>Mona Naguib</strong></h2>
-<h3>💡 AI Engineer | Data Science & Machine Learning Enthusiast</h3>
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=MonaNaguib&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMonaNaguib&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+## 🧠 About Me
+- 💻 I specialize in **Artificial Intelligence** and **Machine Learning**.  
+- 📊 I enjoy working on **Data Analysis** and **Predictive Modeling**.  
+- 📈 My focus is on building **smart models** that extract insights and automate decisions.  
+- 🌱 Currently improving my skills in **Deep Learning** and **NLP (Natural Language Processing)**.  
+- 🚀 Always eager to learn and explore new technologies.
 
-</div>
+---
 
-<hr>
+## 🧩 Technical Skills
 
-### 🚀 Tools & Technologies I Use
+### 💻 Programming Languages
+- Python  
+- C++  
+- JavaScript  
+- SQL  
+- HTML / CSS  
+- Bootstrap  
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+### 📚 Libraries & Frameworks
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Scikit-learn  
+- React.js  
 
-```python
-# About Me
-class MonaNaguib:
-    def __init__(self):
-        self.role = "AI Engineer"
-        self.focus = ["Machine Learning", "Deep Learning", "Data Science"]
-        self.skills = ["Python", "TensorFlow", "Scikit-learn", "SQL", "Pandas"]
-        self.goal = "Building intelligent systems that solve real-world problems"
+### ⚙️ Tools & Platforms
+- Excel  
+- Power BI  
+- Git & GitHub  
+- Jupyter Notebook  
+- Visual Studio Code  
 
-    def say_hi(self):
-        print("Hello, world! Let's build something smart 🤖")
+---
 
-me = MonaNaguib()
-me.say_hi()
+## 📊 Areas of Interest
+- Artificial Intelligence  
+- Machine Learning  
+- Deep Learning  
+- Data Science  
+- Data Visualization  
+- Model Deployment  
 
+---
+
+## 🎓 Current Focus
+Improving my expertise in:
+- Advanced ML Algorithms  
+- Model Evaluation & Optimization  
+- Deep Learning Architectures (CNNs, RNNs, Transformers)  
+- AI Applications in Real-world Scenarios  
+
+---
+
+## 💬 Fun Fact
+> I believe that “Learning never stops.” Every dataset is a new story waiting to be understood.
+
+---
+
+📫 **Let's Connect**
+> Coming soon... (LinkedIn / Kaggle / Portfolio)
+
+---
+
+⭐ *“Intelligence is not about knowing everything, but about learning anything.”*  
+— Mona Naguib
